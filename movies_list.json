@@ -1,0 +1,61 @@
+{
+  "appName": "Movies Week",
+  "timeZone": "Asia/Karachi",
+  "movies": [
+    {
+      "movieId": "movie-101",
+      "movieTitle": "Shadows of Chronos",
+      "movieCategory": "Sci-Fi / Thriller",
+      "bannerUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1280&q=80",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&q=80",
+      "movieUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "releaseDate": "2026-10-12",
+      "releaseTime": "12:00",
+      "featured": false
+    },
+    {
+      "movieId": "movie-102",
+      "movieTitle": "The Cyberpunk Odyssey",
+      "movieCategory": "Action / Sci-Fi",
+      "bannerUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1280&q=80",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&q=80",
+      "movieUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "releaseDate": "2026-10-13",
+      "releaseTime": "12:00",
+      "featured": false
+    },
+    {
+      "movieId": "movie-103",
+      "movieTitle": "Celestial Horizon",
+      "movieCategory": "Adventure / Drama",
+      "bannerUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1280&q=80",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&q=80",
+      "movieUrl": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fhd/master.m3u8",
+      "releaseDate": "2026-10-14",
+      "releaseTime": "12:00",
+      "featured": false
+    },
+    {
+      "movieId": "movie-104",
+      "movieTitle": "Neon Eclipse",
+      "movieCategory": "Cyberpunk / Action",
+      "bannerUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=1280&q=80",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&q=80",
+      "movieUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "releaseDate": "2026-10-15",
+      "releaseTime": "12:00",
+      "featured": false
+    },
+    {
+      "movieId": "movie-105",
+      "movieTitle": "Realm of Echoes",
+      "movieCategory": "Fantasy / Epic",
+      "bannerUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1280&q=80",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&q=80",
+      "movieUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+      "releaseDate": "2026-10-16",
+      "releaseTime": "12:00",
+      "featured": false
+    }
+  ]
+}
