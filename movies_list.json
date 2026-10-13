@@ -4,11 +4,11 @@
   "movies": [
     {
       "movieId": "movie-1",
-      "movieTitle": "Shadows of Chronos",
+      "movieTitle": "Alpha (2026)",
       "movieCategory": "Sci-Fi / Thriller",
       "bannerUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1280&q=80",
       "thumbnailUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&q=80",
-      "movieUrl": "https://pub-5c7622c906e642498f315b8d02f34fdc.r2.dev/Alpha_(2026)_Hindi_HD_720p/playlist.m3u8",
+      "movieUrl": "https://pub-5c7622c906e642498f315b8d02f34fdc.r2.dev/Alpha_(2026)_Hindi_HD_720p/master.m3u8",
       "releaseDate": "2026-10-13",
       "releaseTime": "12:00",
       "featured": true
