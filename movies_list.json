@@ -1,5 +1,5 @@
 {
-  "appName": "Movies Week",
+  "appName": "Midnight Cinema 7",
   "timeZone": "Asia/Karachi",
   "movies": [
     {
@@ -7,10 +7,8 @@
       "movieTitle": "Alpha (2026)",
       "movieCategory": "Sci-Fi / Thriller",
       "bannerUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1280&q=80",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&q=80",
       "movieUrl": "https://pub-5c7622c906e642498f315b8d02f34fdc.r2.dev/Alpha_(2026)_Hindi_HD_720p/master.m3u8",
-      "releaseDate": "2026-10-13",
-      "releaseTime": "12:00",
+      "streamDate": "2026-10-13",
       "featured": true
     },
     {
@@ -18,10 +16,8 @@
       "movieTitle": "The Cyberpunk Odyssey",
       "movieCategory": "Action / Sci-Fi",
       "bannerUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1280&q=80",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&q=80",
       "movieUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-      "releaseDate": "2026-10-13",
-      "releaseTime": "12:00",
+      "streamDate": "2026-10-13",
       "featured": false
     },
     {
@@ -29,10 +25,8 @@
       "movieTitle": "Celestial Horizon",
       "movieCategory": "Adventure / Drama",
       "bannerUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1280&q=80",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&q=80",
       "movieUrl": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fhd/master.m3u8",
-      "releaseDate": "2026-10-14",
-      "releaseTime": "12:00",
+      "streamDate": "2026-10-14",
       "featured": false
     },
     {
@@ -40,10 +34,8 @@
       "movieTitle": "Neon Eclipse",
       "movieCategory": "Cyberpunk / Action",
       "bannerUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=1280&q=80",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&q=80",
       "movieUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "releaseDate": "2026-10-15",
-      "releaseTime": "12:00",
+      "streamDate": "2026-10-15",
       "featured": false
     },
     {
@@ -51,10 +43,8 @@
       "movieTitle": "Realm of Echoes",
       "movieCategory": "Fantasy / Epic",
       "bannerUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1280&q=80",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&q=80",
       "movieUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-      "releaseDate": "2026-10-16",
-      "releaseTime": "12:00",
+      "streamDate": "2026-10-16",
       "featured": false
     },
     {
@@ -62,10 +52,8 @@
       "movieTitle": "Realm of Echoes",
       "movieCategory": "Fantasy / Epic",
       "bannerUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1280&q=80",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&q=80",
       "movieUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-      "releaseDate": "2026-10-16",
-      "releaseTime": "12:00",
+      "streamDate": "2026-10-16",
       "featured": false
     },
     {
@@ -73,10 +61,8 @@
       "movieTitle": "Realm of Echoes",
       "movieCategory": "Fantasy / Epic",
       "bannerUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1280&q=80",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&q=80",
       "movieUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-      "releaseDate": "2026-10-16",
-      "releaseTime": "12:00",
+      "streamDate": "2026-10-16",
       "featured": false
     }
   ]
